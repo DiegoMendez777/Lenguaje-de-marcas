@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE COMPUTER SYSTEM "COMPUTER.dtd">
+<COMPUTER price="700€">
+	<Hardware>
+		<Mother_Board>
+			<Chipset>model
+				<NAME>TEXT</NAME>
+			</Chipset>
+			<Ram_slots number="4">
+				<NAME>TEXT</NAME>
+			</Ram_slots>
+			<Integrated_components>
+				<Video_card size="8GB">
+					<NAME>TEXT</NAME>
+				</Video_card>
+				<WIFI_card>
+					<NAME>TEXT</NAME>
+				</WIFI_card>
+				<Sound_card>
+					<NAME>TEXT</NAME>
+				</Sound_card>
+			</Integrated_components>
+		</Mother_Board>
+		<KeyBoard>
+			<NAME>TEXT</NAME>
+		</KeyBoard>
+		<Screen resolution="1920x1080">
+			<NAME>TEXT</NAME>
+		</Screen>
+	</Hardware>
+	<Software>
+		<Operative_System installed="si" free="no">
+			<Security_Pack></Security_Pack>
+			<NAME>TEXT</NAME>
+		</Operative_System>
+		<Office_pack installed="si">
+			<NAME>TEXT</NAME>
+		</Office_pack>
+		<Browser>
+			<NAME>TEXT</NAME>
+		</Browser>
+	</Software>
+</COMPUTER>
