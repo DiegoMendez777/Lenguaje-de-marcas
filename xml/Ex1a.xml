@@ -4,4 +4,9 @@
 		<esport>Atletisme</esport>
 			<nom>Jesse Owens</nom>
 	</esportista>
-	<espo
+	<esportista>
+		<esport>Natació</esport>
+		<nom>Mark Spitz</nom>
+	</esportista>
+</esportistes>
+
