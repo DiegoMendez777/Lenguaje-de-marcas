@@ -1,0 +1,6 @@
+*TeX i LaTex:
+*RTF:
+*SGML:
+*PostScript:
+*HTML:
+*XM:
