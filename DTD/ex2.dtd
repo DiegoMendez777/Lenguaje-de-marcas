@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE papers[
+<!ELEMENT papers (doc,doc)>
+<!ELEMENT doc (#PCDATA)>
+
+
+]>
+<papers>
+	<doc>file1</doc>
+	<doc>file1 file2</doc>
+</papers>
+

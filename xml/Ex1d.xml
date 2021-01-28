@@ -7,6 +7,9 @@
 		<continent>
 			Europa
 		</continent>​
-		<capital nom="Dublin"></capital>​
+		<capital nom="Dublin">
+
+			
+		</capital>​
 </paisos>
 </geografia_mundial>
