@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE COMPUTER SYSTEM>
+<users>
+	<user id="1">
+		<full_name>ALFA</full_name>
+		<email>ALFA123@gmail.com</email>
+		<gender>binario</gender>
+		<date_of_birth>15/11/1990</date_of_birth>
+		<country_code>eu</country_code>
+		<created_at>2020</created_at>
+	</user>
+	<user id="2">
+		<full_name>LOKA</full_name>
+		<email>LOKAA@gmail.com</email>
+		<gender>binario</gender>
+		<date_of_birth>15/11/1994</date_of_birth>
+		<country_code>EU</country_code>
+		<created_at>2016</created_at>
+	</user>
+	<user id="3">
+		<full_name>PEPE</full_name>
+		<email>PEPE123@gmail.com</email>
+		<gender>MASCULINO</gender>
+		<date_of_birth>15/11/1999</date_of_birth>
+		<country_code>NA</country_code>
+		<created_at>2019</created_at>		
+	</user>
+</users>
+

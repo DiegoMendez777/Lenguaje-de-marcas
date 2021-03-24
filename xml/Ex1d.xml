@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<geografia_mundial>​
-	<paisos>​
-		<pais>
-			Irlanda
-		</pais>​
-		<continent>
-			Europa
-		</continent>​
-		<capital nom="Dublin"></capital>​
-</paisos>
+<geografia_mundial>
+    <world>
+        <continent id="01" name="Europe">
+            <name>Europa</name>
+            <country id="101" continentId="01" name="Irlanda">
+                <name>Irlanda</name>
+                <capital id="1001" countryId="102"  name="Dublin">
+                <name>Dublin</name>
+                </capital>
+            </country>
+        </continent>
+        <continent id="02" name="America">
+            <name>America</name>
+            <country id="102" continentId="02" name="Peru"></country>
+        </continent>
+    </world>
 </geografia_mundial>

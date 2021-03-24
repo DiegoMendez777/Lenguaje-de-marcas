@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mundials_de_futbol>​
+<MundialDeFutbol>
 	<mundial>
-		<pais pais="España"/>
-		<data data="1928"/>
+		<seu pais="España" any="1982"/>
+        <any>1982</any>
 	</mundial>
-</mundials_de_futbol>
+</MundialDeFutbol>

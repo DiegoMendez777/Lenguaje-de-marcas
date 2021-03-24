@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<world>
+<continent id="01" Name="America">
+	<name>America</name>
+	<country ContinentId="01" id="101" Name="Belize">
+		<name>Belize</name>
+		<city id="100" CountryId="101" Name="Belmopan"></city>
+	</country>
+	<country ContinentId="01" id="102" Name="Peru">
+		<name>Peru</name>
+		<city id="1003" CountryId="102" Name="Lima"></city>
+		<city id="1004" CountryId="102" Name="Ica"></city>
+	</country>
+</continent>
+
+	<continent id="02" Name="Asia">
+		<country ContinentId="02" id="104" Name="Vietnam">
+			<name>Vietnam</name>
+			<city id="1005" CountryId="104" Name="Pleiku">
+				<name>Pleiku</name>
+			</city>
+		</country>
+
+		<country ContinentId="02" id="105" Name="Japan">
+			<name>Japan</name>
+			<city id="1006" CountryId="105" Name="Kobe">
+				<name>Kobe</name>
+			</city>
+		</country>
+
+		<country ContinentId="02" id="106" Name="India">
+			<name>India</name>
+		</country>
+	</continent>
+</world>

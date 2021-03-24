@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0">
+<a type="aplication/rss+xml" href="rss.xml">
+<img src="tft.gif">
+
+<channel>
+<title>TFT-COMPS</title>
+<link>https://lolchess.gg/patch-notesa</link>
+<description>Estas son las notas del parche del SET 4.5.</description>
+<item>
+	<title>COMPS VIABLES</title>
+	<link>https://lolchess.gg/meta</link>
+	<description>Estas son las composiciones mas viables del set 4.5.</description>
+</item>
+<item>
+	<title>Meta Trends</title>
+	<link>https://lolchess.gg/decks</link>
+	<description>Estas son las tendencias del meta.</description>
+</item>
+
+<item>
+	<title>Items Trends</title>
+	<link>https://lolchess.gg/statistics/items</link>
+	<description>Estas son las tendencias del los items.</description>
+</item>
+</channel>

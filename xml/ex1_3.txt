@@ -1,6 +1,19 @@
-*TeX i LaTex:
-*RTF:
-*SGML:
-*PostScript:
-*HTML:
-*XM:
+*TeX i LaTex: TeX es una mezcla entre procesador de textos y lenguaje de programación usado fundamentalmente para escribir documentos de contenido científico y 
+gran calidad de impresión. Fue desarrollado por Donald E.Knuth y actualmente hay implementaciones para todo tipo de ordenadores.
+
+LaTeX: Es un lenguaje aún más potente y fácil de usar; está basado en TeX. 
+
+*RTF: (formato de texto enriquecido, a menudo abreviado como RTF).
+Es un formato de archivo informático desarrollado por Microsoft en 1987 para el intercambio de documentos multiplataforma
+
+*SGML: El lenguaje de marcado generalizado estándar o SGML
+
+*PostScript: PostScript es un lenguaje de descripción de páginas 
+utilizado en muchas impresoras y también muy común como formato de transporte de archivos gráficos en talleres de impresión profesional.
+
+*HTML:HyperText Markup Language  hace referencia al lenguaje de marcado para la elaboración de páginas web. 
+Es un estándar que sirve de referencia del software que conecta con la elaboración de páginas web en sus diferentes versiones, 
+define una estructura básica y un código (denominado código HTML) para la definición de contenido de una página web, 
+como texto, imágenes, videos, juegos, entre otros
+
+*XML: Es un metalenguaje que permite definir lenguajes de marcas desarrollado por el World Wide Web Consortium (W3C) utilizado para almacenar datos en forma legible.
