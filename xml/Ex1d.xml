@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <geografia_mundial>
     <world>
         <continent id="01" name="Europe">
@@ -16,3 +17,19 @@
         </continent>
     </world>
 </geografia_mundial>
+=======
+<geografia_mundial>​
+	<paisos>​
+		<pais>
+			Irlanda
+		</pais>​
+		<continent>
+			Europa
+		</continent>​
+		<capital nom="Dublin">
+
+			
+		</capital>​
+</paisos>
+</geografia_mundial>
+>>>>>>> 5c8caa20fd01e047bd2d831aee13112063abc498

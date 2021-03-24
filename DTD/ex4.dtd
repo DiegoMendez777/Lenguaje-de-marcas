@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <!DOCTYPE flowers [
  <!ELEMENT flowers EMPTY>
 ]>
 
+=======
+<!DOCTYPE flowers [​
+<!ELEMENT flowers (flower+)>
+<!ELEMENT flower (CDATA)>
+]>
+>>>>>>> 5c8caa20fd01e047bd2d831aee13112063abc498
 <flowers></flowers>

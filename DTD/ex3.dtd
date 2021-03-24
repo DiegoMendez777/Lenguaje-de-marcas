@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <!DOCTYPE colors [
 <!ELEMENT colors (color*)>
 <!ELEMENT color (#PCDATA)>
@@ -6,4 +7,15 @@
 <colors>
 <color>dark blue</color>
 <color>yellow</color>
+=======
+<!DOCTYPE colors[
+<!ELEMENT colors (color*)>
+<!ELEMENT color (#PCDATA)>
+
+
+]>
+<colors>
+	<color>darkblue</color>
+	<color>yellow</color>
+>>>>>>> 5c8caa20fd01e047bd2d831aee13112063abc498
 </colors>
